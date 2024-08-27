@@ -1,0 +1,5 @@
+https://github.com/BakeryPanya/Android-Compose-USBSerialSample をもとに作成した。
+JetPackComposeでArduinoと通信を行うサンプルプロジェクトです。
+簡単な実装と自分なりの解釈のコメントを挿入していますが間違えていたら教えてください。
+
+SampleのArduinoファイルもフォルダをご参照ください。

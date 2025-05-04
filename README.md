@@ -12,6 +12,9 @@ thanks to https://github.com/kai-morich
 
 SampleのArduinoファイルもありますのでフォルダをご参照ください。
 
+devicefilter.xmlを弄ってそのvendor-id と product-id をいじる事でアプリケーションでそのデバイスを検出する事ができます
+自身で調べて追加すると色々なマイコンで試す事ができます。
+
 ## 使用方法
 
 1．AndroidスマートフォンとArduinoを接続する

@@ -12,7 +12,8 @@ thanks to https://github.com/kai-morich
 
 SampleのArduinoファイルもありますのでフォルダをご参照ください。
 
-devicefilter.xmlを弄ってそのvendor-id と product-id をいじる事でアプリケーションでそのデバイスを検出する事ができます
+devicefilter.xmlを弄ってそのvendor-id と product-id を追加する事でアプリケーションでそのデバイスを検出する事ができます
+※16進数表記のvendor-id と product-idは10進数表記にして追加してください
 自身で調べて追加すると色々なマイコンで試す事ができます。
 
 ## 使用方法
